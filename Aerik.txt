@@ -1,0 +1,4 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--we are using internal css for enhancement-->
